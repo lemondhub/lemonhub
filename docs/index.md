@@ -1,4 +1,4 @@
-# 歡迎來到 LemondHub
+# LemondHub
 
 這是我網站的主頁。
 
