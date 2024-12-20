@@ -96,7 +96,9 @@
    python main.py
    ```
 
-6. 最後點選 **Queue**，這時就能生成第一張圖片了。
+6. 在checkpoint中的model選取剛剛下載的`v1-5-pruned-emaonly.ckpt`
+
+7. 最後點選 **Queue**，這時就能生成第一張圖片了。
 
 ## 再次啟動 ComfyUI
 
