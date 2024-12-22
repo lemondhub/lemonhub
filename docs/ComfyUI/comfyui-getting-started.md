@@ -1,4 +1,4 @@
-# 如何使用 ComfyUI 創建你的第一張 AI 圖片
+# [Lemonhub ComfyUI](index-comfyUI.md) 創建你的第一張 AI 圖片
 
 ## 安裝 ComfyUI
 
